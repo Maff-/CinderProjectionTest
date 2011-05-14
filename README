@@ -1,0 +1,3 @@
+A project written in C++/Cinder[libcinder.org] to test GLSL Texture Projection.
+
+The goal is to project a texture onto geometry, that can be viewed from different angles, while the texure will be 'fixed'.
